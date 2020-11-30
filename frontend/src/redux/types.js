@@ -1,0 +1,15 @@
+export const AUTHENTICATE = "AUTHENTICATE";
+export const SET_ERROR = "SET_ERROR";
+export const SET_ERROR_TRUE = "SET_ERROR_TRUE";
+export const SET_ERROR_FALSE = "SET_ERROR_FALSE";
+export const CREATE_HOST = "CREATE_HOST";
+export const CREATE_EVENT = "CREATE_EVENT";
+export const OPERATION_SUCCESS = "OPERATION_SUCCESS";
+export const GET_ALL_HOSTS = "GET_ALL_HOSTS";
+export const GET_ALL_EVENTS = "GET_ALL_EVENTS";
+export const USER_SIGN_UP = "USER_SIGN_UP";
+export const LOGOUT = "LOGOUT";
+export const FETCH_IMAGE = "FETCH_IMAGE";
+export const GET_ALL_USERS_WITH_ALL_ROLES = "GET_ALL_USERS_WITH_ALL_ROLES";
+export const LOADING = "LOADING";
+export const LOADED = "LOADED";
